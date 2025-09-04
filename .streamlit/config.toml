@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#0097b2"             # warna utama (misalnya merah 4Kings)
+backgroundColor="#e9e9e9ff"          # background utama (putih)
+secondaryBackgroundColor="#e5e5e5ff" # background sidebar/form (abu terang)
+textColor="#000000"                # teks hitam
+font="source serif"                  # font default
